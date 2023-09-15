@@ -22,7 +22,10 @@ jupyter notebook will_it_rain_tomorrow.ipynb
 ```
 
 # Demonstration
+#### [Google drive link](https://docs.google.com/presentation/d/13HZf4dhBgtoqTkaInJXLBvqXbNfW9LWiKVgwzBpTspA/edit?usp=sharing)
 
-#### [Google drive link](https://drive.google.com/file/d/1TQSPZYRlYxPVGmBk8n_qeH7sMHErnzCm/view?usp=share_link)
+# Additional notes
+#### This was one of my early ML notebooks. I developed the technique mentioned above to address the problem of the imbalanced dataset. However, I later found out about the "threshold adjustment" technique, which addresses the same problem the same idea xD.
+#### 
 
 
