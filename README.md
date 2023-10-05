@@ -25,9 +25,9 @@ jupyter notebook will_it_rain_tomorrow.ipynb
 #### [Google drive link](https://docs.google.com/presentation/d/13HZf4dhBgtoqTkaInJXLBvqXbNfW9LWiKVgwzBpTspA/edit?usp=sharing)
 
 # Additional notes
-This was one of my early ML notebooks. I developed the technique mentioned above to address the problem of the imbalanced dataset. However, I later found out about the "threshold adjustment" technique, which addresses the same problem the same idea :D.
+This was one of my early ML notebooks. I developed the technique mentioned above to address the problem of the imbalanced dataset. However, I later found out about the "threshold adjustment" technique, which addresses the same problem with the same idea :D.
 
-visuals.py is not of my own work; it was provided for me to use in completing a notebook for Udacity certification. I just reused it in my notebook.
+visuals.py is not of my own work; it was provided for me to use in completing a notebook for a Udacity certification. I just reused it in my notebook.
 
 [Huda Ayman](https://www.linkedin.com/in/huda-ayman-63a774216/) helped design the presentation.
 
