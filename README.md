@@ -1,5 +1,5 @@
 # About the project
-#### This project aims to build a model to predict whether it will rain the next day given weather information about the current day
+#### This project aims to build a model to predict whether it will rain on a day given weather information about the day before it
 
 # Key Achievements
 * Trained and optimized a model to have an accuracy of 85% and an F2 score of 58% in predicting whether it will rain the next day. So the decrease in the accuracy is caused of false negatives overwhelmingly, as the data is unbalanced for the nature of having more days off rain
