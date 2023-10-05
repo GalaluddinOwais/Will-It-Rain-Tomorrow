@@ -2,7 +2,7 @@
 This project aims to build a model to predict whether it will rain on a day given weather information about the day before it
 
 # Key Achievements
-* Trained and optimized a model to have an accuracy of 85% and an F2 score of 58% in predicting whether it will rain on someday, so the decrease in the accuracy was caused of false negatives overwhelmingly, as the data was unbalanced for the nature of having more days off rain
+* Trained and optimized a model to have an accuracy of 85% and an F2 score of 58% in predicting whether it will rain on someday, so the decrease in the accuracy was caused of false negatives overwhelmingly, as the data was imbalanced for the nature of having more days off rain
 * Reduced the dataset to only the top eight distinguishing features and fit it to the model to have an accuracy of 84.4% and an F2 score of 55%
 * Built three models for the same problem with different prediction tendencies (increasing in recall for positives) through modifying the class distribution in the training set for each, using the reduced dataset
 * Considered the model with the lowest recall to be informing about high rain probability, the model with the highest recall to be informing about low rain probability, and the last model to be in-between
